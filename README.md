@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madan Magar
 - 👀 I’m interested in FrontEnd Development and I am Tech, Code enthusiast :)
-- 🌱 I’m currently learning Javascript 
+- 🌱 I’m currently learning React js 
 - 📫 How to reach me magarmadan2001@gmail.com
 
 <!---
